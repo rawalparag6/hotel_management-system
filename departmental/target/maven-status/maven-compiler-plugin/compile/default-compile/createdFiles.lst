@@ -1,0 +1,6 @@
+com\in\DepartmentalApplication.class
+com\in\repo\DepartmentRepository.class
+com\in\entity\Department.class
+com\in\service\DepartmentService.class
+com\in\service\DepartmentServiceImp.class
+com\in\controller\DepartmentController.class

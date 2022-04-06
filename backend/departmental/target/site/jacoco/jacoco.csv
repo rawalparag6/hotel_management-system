@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+departmental,com.in.controller,DepartmentController,49,11,0,0,10,3,5,2,5,2
+departmental,com.in.entity,Department,30,12,0,0,14,5,8,1,8,1
+departmental,com.in,DepartmentalApplication,5,3,0,0,2,1,1,1,1,1
+departmental,com.in.service,DepartmentServiceImp,4,30,0,0,1,8,1,5,1,5
